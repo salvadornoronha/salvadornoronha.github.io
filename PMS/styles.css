@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, Arial, sans-serif; margin: 0; line-height: 1.5; }
+.container { max-width: 900px; margin: 0 auto; padding: 16px; }
+header { display: flex; align-items: center; justify-content: space-between; gap: 12px; border-bottom: 1px solid #ddd; }
+nav a { margin-right: 12px; text-decoration: none; }
+section { padding: 16px 0; border-bottom: 1px solid #eee; }
+button { padding: 8px 12px; cursor: pointer; }
+input { padding: 8px; margin-top: 6px; display: block; width: 100%; max-width: 360px; }
